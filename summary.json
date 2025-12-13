@@ -1,0 +1,10 @@
+{
+  "total_endpoints": 0,
+  "http_method_distribution": {},
+  "authentication_methods": [],
+  "endpoints_with_responses": 0,
+  "endpoints_missing_responses": 0,
+  "response_codes_encountered": [],
+  "coverage_percentage": 0,
+  "generated_at": "2025-12-13 12:55:30.339346"
+}
